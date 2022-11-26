@@ -5,7 +5,7 @@
 - Update a resource using Rails
 - Define custom routes in addition to `resources`
 
-## Introduction
+## Introduction 
 
 In this lesson, we'll continue working on our Bird API by adding an `update`
 action, so that clients can use our API to update birds. To get set up, run:
